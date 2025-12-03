@@ -1,1 +1,1 @@
-# STM32F103RET6-Breadboard-Dev-Kit-Personal-project
+# STM32F103RET6-Breadboard-DevKit
